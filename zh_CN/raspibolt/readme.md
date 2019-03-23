@@ -27,21 +27,21 @@
 
 为了保持这种货币体系的分散性，我认为每个人都可以运行他们自己的无信任比特币全节点，最好是在像Raspberry Pi这样的廉价硬件上。如果比特币是数字黄金，那么一个完整的节点钱包就是你自己的个人金匠，他会检查收到付款的是真品。
 
-！[RaspiBolt Logo]（images / 00_raspibolt_banner_440.png）
+！[RaspiBolt Logo](images/00_raspibolt_banner_440.png)
 
 这就是为什么我开始构建我的** RaspiBolt **并认为我现在 - 经过多次迭代 - 相当不错的配置，我想分享作为我对社区的微薄贡献。我不是系统专家，所以请随时指出改进。
 
 ## 关于本指南
 ### 结构体
 
-1. 介绍（本页）
-2. [准备工作]（raspibolt_10_preparations.md）：获取所有必需的部件并开始下载主网区Blockchain
-3. [Raspberry Pi]（raspibolt_20_pi.md）：设置并配置Pi作为安全的Linux服务器
-4. [比特币]（raspibolt_30_bitcoin.md）：在testnet上安装和配置比特币核心软件作为完整节点
-5. [Lightning]（raspibolt_40_lnd.md）：在testnet上安装和配置Lightning Network Daemon（LND）
-6. [Mainnet]（raspibolt_50_mainnet.md）：在您熟悉设置后，切换到比特币主网
-7. [FAQ]（raspibolt_faq.md）：常见问题和进一步阅读
-8. [更新]（raspibolt_updates.md）：跟踪变化
+1. 介绍(本页)
+2. [准备工作](raspibolt_10_preparations.md)：获取所有必需的部件并开始下载主网区Blockchain
+3. [Raspberry Pi](raspibolt_20_pi.md)：设置并配置Pi作为安全的Linux服务器
+4. [比特币](raspibolt_30_bitcoin.md)：在testnet上安装和配置比特币核心软件作为完整节点
+5. [Lightning](raspibolt_40_lnd.md)：在testnet上安装和配置Lightning Network Daemon(LND)
+6. [Mainnet](raspibolt_50_mainnet.md)：在您熟悉设置后，切换到比特币主网
+7. [FAQ](raspibolt_faq.md)：常见问题和进一步阅读
+8. [更新](raspibolt_updates.md)：跟踪变化
 
 ### 目的
 
@@ -51,11 +51,11 @@
 * 通过路由支付和支持Lightning网络的分散和支持
 * 可用于使用命令行界面发送和接收个人付款。
 
-此服务器设置为没有图形用户界面，可以使用Secure Shell（SSH）命令行远程使用。将来，这台服务器应该作为桌面和移动钱包的个人后端，但我还没有找到一个好的解决方案。所以，命令行暂时是这样。
+此服务器设置为没有图形用户界面，可以使用Secure Shell(SSH)命令行远程使用。将来，这台服务器应该作为桌面和移动钱包的个人后端，但我还没有找到一个好的解决方案。所以，命令行暂时是这样。
 
 **扰流板警报**：这是本指南的目标，只需购买Blockaccino。
 
-[！[]（图像/ 00_blockaccino_goal.png）](https://vimeo.com/258395303)
+[！[](图像/ 00_blockaccino_goal.png)](https://vimeo.com/258395303)
 
 **进一步增强的愿望清单**
 
@@ -76,4 +76,4 @@
 Lightning网络的所有组件仍在开发中，我们在这里处理真钱。因此本指南遵循一种保守的方法：首先在比特币测试网上设置并测试所有内容，然后 - 一旦您愿意将真钱投入到生产线上 - 只需进行一些简单的更改即可切换到比特币主网。
 
 ---
-使用入门：[准备工作>>]（raspibolt_10_preparations.md）
+使用入门：[准备工作>>](raspibolt_10_preparations.md)
