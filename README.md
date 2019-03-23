@@ -7,7 +7,7 @@ by Stadicus
 ---
 
 **Raspberry Pi上的️⚡闪电网络⚡初学者指南**
-https://github.com/lightningcn/guides/blob/lightningcn/zh_CN/raspibolt/README.md
+https://github.com/lightningcn/guides/blob/lightningcn/zh_CN/raspibolt/readme.md
 
 [![RaspiBolt banner](raspibolt/images/00_raspibolt_banner_440.png)](https://github.com/Stadicus/guides/blob/master/raspibolt/README.md)
 
