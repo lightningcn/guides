@@ -1,0 +1,108 @@
+[main]
+host = https://www.transifex.com
+
+[guide.readmemd]
+file_filter = <lang>/raspibolt/readme.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_10_preparationsmd]
+file_filter = <lang>/raspibolt/raspibolt_10_preparations.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_20_pimd]
+file_filter = <lang>/raspibolt/raspibolt_20_pi.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_30_bitcoinmd]
+file_filter = <lang>/raspibolt/raspibolt_30_bitcoin.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_40_lndmd]
+file_filter = <lang>/raspibolt/raspibolt_40_lnd.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_50_mainnetmd]
+file_filter = <lang>/raspibolt/raspibolt_50_mainnet.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_60_bonusmd]
+file_filter = <lang>/raspibolt/raspibolt_60_bonus.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_61_system-overviewmd]
+file_filter = <lang>/raspibolt/raspibolt_61_system.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_62_commandlinemd]
+file_filter = <lang>/raspibolt/raspibolt_62_commandlinemd.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_63_email-alertsmd]
+file_filter = <lang>/raspibolt/raspibolt_63_email.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_64_electrummd]
+file_filter = <lang>/raspibolt/raspibolt_64_electrummd.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_65_system-recoverymd]
+file_filter = <lang>/raspibolt/raspibolt_65_system-recovery.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_66_remote_lnclimd]
+file_filter = <lang>/raspibolt/raspibolt_66_remote_lncli.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_67_additional-scriptsmd]
+file_filter = <lang>/raspibolt/raspibolt_67_additional-scripts.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_68_shangomd]
+file_filter = <lang>/raspibolt/raspibolt_68_shango.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_69_tormd]
+file_filter = <lang>/raspibolt/raspibolt_69_tor.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_6a_auto-unlockmd]
+file_filter = <lang>/raspibolt/raspibolt_6a_auto-unlock.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_70_troubleshootingmd]
+file_filter = <lang>/raspibolt/raspibolt_70_troubleshooting.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_71_zapmd]
+file_filter = <lang>/raspibolt/raspibolt_71_zap.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_faqmd]
+file_filter = <lang>/raspibolt/raspibolt_faq.md
+source_lang = en
+type = GITHUBMARKDOWN
+
+[guide.raspibolt_updatesmd]
+file_filter = <lang>/raspibolt/raspibolt_updates.md
+source_lang = en
+type = GITHUBMARKDOWN
+
