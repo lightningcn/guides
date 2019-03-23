@@ -1,12 +1,12 @@
 [**简介**]  
 
-    -- [[筹备](raspibolt_10_preparations.md)]  
-    -- [[Raspberry Pi](raspibolt_20_pi.md)]  
-    -- [[比特币](raspibolt_30_bitcoin.md)]  
-    -- [[闪电] (raspibolt_40_lnd.md)]  
-    -- [[Mainnet](raspibolt_50_mainnet.md)]  
-    -- [[Bonus](raspibolt_60_bonus.md)]  
-    -- [[故障排除](raspibolt_70_troubleshooting.md)]
+    -- [ [筹备](raspibolt_10_preparations.md) ]  
+    -- [ [Raspberry Pi](raspibolt_20_pi.md) ]  
+    -- [ [比特币](raspibolt_30_bitcoin.md) ]  
+    -- [ [闪电] (raspibolt_40_lnd.md) ]  
+    -- [ [Mainnet](raspibolt_50_mainnet.md) ]  
+    -- [ [Bonus](raspibolt_60_bonus.md) ]  
+    -- [ [故障排除](raspibolt_70_troubleshooting.md) ]
 
 -----
 # Raspberry Pi上的️⚡Lightning️⚡初学者指南
@@ -55,7 +55,7 @@
 
 **扰流板警报**：这是本指南的目标，只需购买Blockaccino。
 
-[！[](图像/ 00_blockaccino_goal.png)](https://vimeo.com/258395303)
+[！[](图像/ 00_blockaccino_goal.png) ](https://vimeo.com/258395303)
 
 **进一步增强的愿望清单**
 
